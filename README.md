@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @YizhuoZhang3
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning HTML5, CSS, JavaScript, Java and Python
+- 🌱 I’m currently learning JavaScript, Java, Python HTML5, CSS, React, Redux, Node.js, SQL, PostgreSQL and Sequelize
 - 💞️ I’m looking to collaborate on smart and nice people
 - 📫 Reach me zhangyizhuozoe@gmail.com 
 
