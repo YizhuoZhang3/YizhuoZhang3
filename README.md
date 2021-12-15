@@ -1,5 +1,4 @@
 # **Hi there, I'm Zoe Zhang** 👋
-![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FZoe05174705) ![Linkedin URL](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue) 
 <div style="display: flex; flexDirection: row">
   <a href='https://www.linkedin.com/in/zoezhang33/'><img src='https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue'></a>
   <a href='https://twitter.com/Zoe05174705/'><img src='https://img.shields.io/badge/Twitter-lightgrey?style=flat&logo=twitter'></a>
