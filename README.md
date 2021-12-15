@@ -1,3 +1,5 @@
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+
 - 👋 Hi, I’m @YizhuoZhang3
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning JavaScript, Java, Python HTML5, CSS, React, Redux, Node.js, SQL, PostgreSQL and Sequelize
