@@ -1,4 +1,4 @@
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+![Twitter URL](https://img.shields.io/twitter/url?style=social&url=Zoe05174705)
 
 - 👋 Hi, I’m @YizhuoZhang3
 - 👀 I’m interested in programming
