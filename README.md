@@ -1,4 +1,4 @@
-![Twitter URL](https://img.shields.io/twitter/url?style=social&url=Zoe05174705)
+![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FZoe05174705)
 
 - 👋 Hi, I’m @YizhuoZhang3
 - 👀 I’m interested in programming
