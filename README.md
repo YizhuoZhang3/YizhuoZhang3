@@ -1,3 +1,4 @@
+<!--START_SECTION:waka-->
 # **Hi there, I'm Zoe Zhang** 👋
 <div style="display: flex; flexDirection: row">
   <a href='https://www.linkedin.com/in/zoezhang33/'><img src='https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue'></a>
@@ -31,7 +32,8 @@ You can click the Preview link to take a look at your changes.
   </a>
 </div>
 
-<!--START_SECTION:waka-->
+## This Week I Spent My Time On:
+
 <!--END_SECTION:waka-->
 
 
