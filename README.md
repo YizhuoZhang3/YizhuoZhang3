@@ -3,8 +3,8 @@
 <div style="display: flex; flexDirection: row">
   <a href='https://www.linkedin.com/in/zoezhang33/'><img src='https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue'></a>
   <a href='https://twitter.com/Zoe05174705/'><img src='https://img.shields.io/badge/Twitter-lightgrey?style=flat&logo=twitter'></a>
-  <a href='https://zoezhang.netlify.app/'><img src='https://img.shields.io/badge/Portfolio-brightgreen?style=flat&logo=appveyor&labelColor=brightgreen'></a>
-  <a href='https://www.instagram.com/zoezhang333/'><img src='https://img.shields.io/badge/Instagram-red?style=flat&logo=instagram&labelColor=white'></a>
+  <a href='https://zoezhang.netlify.app/'><img src='https://img.shields.io/badge/Portfolio-brightgreen?style=flat&logo=appveyor&logoColor=white'></a>
+  <a href='https://www.instagram.com/zoezhang333/'><img src='https://img.shields.io/badge/Instagram-red?style=flat&logo=instagram&logoColor=white'></a>
 </div>
 
 
