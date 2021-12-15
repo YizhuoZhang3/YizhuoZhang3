@@ -1,4 +1,3 @@
-<!--START_SECTION:waka-->
 # **Hi there, I'm Zoe Zhang** 👋
 <div style="display: flex; flexDirection: row">
   <a href='https://www.linkedin.com/in/zoezhang33/'><img src='https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue'></a>
@@ -33,7 +32,11 @@ You can click the Preview link to take a look at your changes.
 </div>
 
 ## This Week I Spent My Time On:
+<a href="https://github.com/YizhuoZhang3">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=YizhuoZhang3" />
+</a>
 
+<!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
 
