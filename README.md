@@ -8,7 +8,7 @@
 
 ## I'm Zoe, glad to meet you!   ![visitors](https://visitor-badge.glitch.me/badge?page_id=${YizhuoZhang3}.${YizhuoZhang3})
 
-- 👀 I’m interested in programming
+- 👀 I love programming
 - 🌱 I’m currently learning JavaScript, Java, Python HTML5, CSS, React, Redux, Node.js, SQL, PostgreSQL and Sequelize
 - 💞️ I’m looking to collaborate on smart and nice people
 - 📫 Reach me zhangyizhuozoe@gmail.com 
