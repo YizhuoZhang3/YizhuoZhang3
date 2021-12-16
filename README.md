@@ -32,14 +32,8 @@ You can click the Preview link to take a look at your changes.
 </div>
 
 ## This Week I Spent My Time On:
-<a href="https://github.com/YizhuoZhang3">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=YizhuoZhang3" />
-</a>
 
 <!--START_SECTION:waka-->
-```text
-No Activity tracked this Week
-```
 <!--END_SECTION:waka-->
 
 
