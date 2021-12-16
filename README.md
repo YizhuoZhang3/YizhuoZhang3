@@ -1,4 +1,4 @@
-# **Hi there, I'm Zoe Zhang** 👋
+# **Hi there** 👋
 <div style="display: flex; flexDirection: row">
   <a href='https://www.linkedin.com/in/zoezhang33/'><img src='https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue'></a>
   <a href='https://twitter.com/Zoe05174705/'><img src='https://img.shields.io/badge/Twitter-lightgrey?style=flat&logo=twitter'></a>
@@ -6,20 +6,12 @@
   <a href='https://www.instagram.com/zoezhang333/'><img src='https://img.shields.io/badge/Instagram-red?style=flat&logo=instagram&logoColor=white'></a>
 </div>
 
+## I'm Zoe, glad to meet you!   ![visitors](https://visitor-badge.glitch.me/badge?page_id=${YizhuoZhang3}.${YizhuoZhang3})
 
-
-## Glad to meet you here!   ![visitors](https://visitor-badge.glitch.me/badge?page_id=${YizhuoZhang3}.${YizhuoZhang3})
-
-- 👋 Hi, I’m @YizhuoZhang3
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning JavaScript, Java, Python HTML5, CSS, React, Redux, Node.js, SQL, PostgreSQL and Sequelize
 - 💞️ I’m looking to collaborate on smart and nice people
 - 📫 Reach me zhangyizhuozoe@gmail.com 
-
-<!---
-YizhuoZhang3/YizhuoZhang3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 
 ## GitHub Stats 📈
 <div style="display: flex; flexDirection: row">
@@ -31,7 +23,6 @@ You can click the Preview link to take a look at your changes.
   </a>
 </div>
 
-## This Week I Spent My Time On:
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
