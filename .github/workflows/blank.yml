@@ -1,4 +1,4 @@
-name: Zoe Readme
+name: Waka Readme
 
 on:
   workflow_dispatch:
