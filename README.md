@@ -11,7 +11,7 @@
 - 👀 I love programming
 - 🌱 I’m currently learning JavaScript, Java, Python HTML5, CSS, React, Redux, Node.js, SQL, PostgreSQL and Sequelize
 - 💞️ I’m looking to collaborate on smart and nice people
-- 📫 Reach me zhangyizhuozoe@gmail.com 
+- 📫 Reach me at zhangyizhuozoe@gmail.com 
 
 ## GitHub Stats 📈
 <div style="display: flex; flexDirection: row">
