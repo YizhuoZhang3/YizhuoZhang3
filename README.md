@@ -7,7 +7,6 @@
 </div>
 
 ## I'm Zoe, glad to meet you!   ![visitors](https://visitor-badge.glitch.me/badge?page_id=${YizhuoZhang3}.${YizhuoZhang3})
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge&left_color=red&right_color=green&left_text=Hello%20Visitors)
 
 - 👀 I love programming
 - 🌱 I’m currently learning JavaScript, Java, Python HTML5, CSS, React, Redux, Node.js, SQL, PostgreSQL and Sequelize
